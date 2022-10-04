@@ -1,6 +1,6 @@
 # eCommerce-Frontend
 
-Solarized dark             |  Solarized Ocean
+Home Page             |  Admin Panel
 :-------------------------:|:-------------------------:
 ![image](https://user-images.githubusercontent.com/69998085/193880178-4172c6eb-062a-4388-968a-cba0eb9c6654.png)  |  ![image](https://user-images.githubusercontent.com/69998085/193880895-2d2ccae1-f19d-44e9-960d-e3c6345cdb0a.png)
 
