@@ -1,0 +1,13 @@
+.ant-drawer-header {
+  display: none;
+}
+
+.ant-drawer-title {
+  color: #fff;
+}
+
+.small .ant-drawer-body {
+  background-color: #000 !important;
+  color: #fff;
+  padding: 12px !important;
+}

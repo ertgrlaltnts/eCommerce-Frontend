@@ -1,0 +1,110 @@
+[
+  {
+    "isDelivery": false,
+    "date": "20/11/2022",
+    "totalPrice": "1180",
+    "customer": "Nazlı Durak",
+    "order": [
+      {
+        "title": "Kışlık Hırka",
+        "rate": 3.5,
+        "price": 560,
+        "count": 2,
+        "images": [
+          "https://mageblueskytech.com/utero/media/catalog/product/cache/8b03ac958acfaa7a7ff9378b4c55ef53/2/_/x2_1-a_1_1.jpg.pagespeed.ic.RdXQlkW5vq.jpg",
+          "https://mageblueskytech.com/utero/media/catalog/product/cache/8b03ac958acfaa7a7ff9378b4c55ef53/2/_/x2_1-b_2_1.jpg.pagespeed.ic.EMOvmPtt6U.jpg",
+          "https://mageblueskytech.com/utero/media/catalog/product/cache/8b03ac958acfaa7a7ff9378b4c55ef53/2/_/x2_1-b_2_1.jpg.pagespeed.ic.EMOvmPtt6U.jpg",
+          "https://mageblueskytech.com/utero/media/catalog/product/cache/8b03ac958acfaa7a7ff9378b4c55ef53/2/_/x2_1-a_1_1.jpg.pagespeed.ic.RdXQlkW5vq.jpg"
+        ],
+        "category": "Kot",
+        "slug": "kislik-hirka"
+      },
+      {
+        "title": "Kaşkol",
+        "rate": 2.8,
+        "price": 60,
+        "count": 1,
+        "images": [
+          "https://mageblueskytech.com/utero/media/catalog/product/cache/8b03ac958acfaa7a7ff9378b4c55ef53/9/c/x9c.jpg.pagespeed.ic.T5skxfXvDJ.jpg",
+          "https://mageblueskytech.com/utero/media/catalog/product/cache/8b03ac958acfaa7a7ff9378b4c55ef53/9/b/x9b.jpg.pagespeed.ic.azJS6R2qPa.jpg",
+          "https://mageblueskytech.com/utero/media/catalog/product/cache/8b03ac958acfaa7a7ff9378b4c55ef53/9/c/x9c.jpg.pagespeed.ic.T5skxfXvDJ.jpg",
+          "https://mageblueskytech.com/utero/media/catalog/product/cache/8b03ac958acfaa7a7ff9378b4c55ef53/9/b/x9b.jpg.pagespeed.ic.azJS6R2qPa.jpg"
+        ],
+        "category": "Aksesuar",
+        "slug": "kaskol"
+      }
+    ]
+  },
+  {
+    "isDelivery": true,
+    "date": "09/07/2021",
+    "totalPrice": "1180",
+    "customer": "Ertuğrul Altuntaş",
+    "order": [
+      {
+        "title": "Kışlık Hırka",
+        "rate": 3.5,
+        "price": 560,
+        "count": 2,
+        "images": [
+          "https://mageblueskytech.com/utero/media/catalog/product/cache/8b03ac958acfaa7a7ff9378b4c55ef53/2/_/x2_1-a_1_1.jpg.pagespeed.ic.RdXQlkW5vq.jpg",
+          "https://mageblueskytech.com/utero/media/catalog/product/cache/8b03ac958acfaa7a7ff9378b4c55ef53/2/_/x2_1-b_2_1.jpg.pagespeed.ic.EMOvmPtt6U.jpg",
+          "https://mageblueskytech.com/utero/media/catalog/product/cache/8b03ac958acfaa7a7ff9378b4c55ef53/2/_/x2_1-b_2_1.jpg.pagespeed.ic.EMOvmPtt6U.jpg",
+          "https://mageblueskytech.com/utero/media/catalog/product/cache/8b03ac958acfaa7a7ff9378b4c55ef53/2/_/x2_1-a_1_1.jpg.pagespeed.ic.RdXQlkW5vq.jpg"
+        ],
+        "category": "Kot",
+        "slug": "kislik-hirka"
+      },
+      {
+        "title": "Kaşkol",
+        "rate": 2.8,
+        "price": 60,
+        "count": 1,
+        "images": [
+          "https://mageblueskytech.com/utero/media/catalog/product/cache/8b03ac958acfaa7a7ff9378b4c55ef53/9/c/x9c.jpg.pagespeed.ic.T5skxfXvDJ.jpg",
+          "https://mageblueskytech.com/utero/media/catalog/product/cache/8b03ac958acfaa7a7ff9378b4c55ef53/9/b/x9b.jpg.pagespeed.ic.azJS6R2qPa.jpg",
+          "https://mageblueskytech.com/utero/media/catalog/product/cache/8b03ac958acfaa7a7ff9378b4c55ef53/9/c/x9c.jpg.pagespeed.ic.T5skxfXvDJ.jpg",
+          "https://mageblueskytech.com/utero/media/catalog/product/cache/8b03ac958acfaa7a7ff9378b4c55ef53/9/b/x9b.jpg.pagespeed.ic.azJS6R2qPa.jpg"
+        ],
+        "category": "Aksesuar",
+        "slug": "kaskol"
+      }
+    ]
+  },
+  {
+    "isDelivery": true,
+    "date": "09/07/2021",
+    "totalPrice": "1180",
+    "customer": "Hasan Hüseyin",
+    "order": [
+      {
+        "title": "Kışlık Hırka",
+        "rate": 3.5,
+        "price": 560,
+        "count": 2,
+        "images": [
+          "https://mageblueskytech.com/utero/media/catalog/product/cache/8b03ac958acfaa7a7ff9378b4c55ef53/2/_/x2_1-a_1_1.jpg.pagespeed.ic.RdXQlkW5vq.jpg",
+          "https://mageblueskytech.com/utero/media/catalog/product/cache/8b03ac958acfaa7a7ff9378b4c55ef53/2/_/x2_1-b_2_1.jpg.pagespeed.ic.EMOvmPtt6U.jpg",
+          "https://mageblueskytech.com/utero/media/catalog/product/cache/8b03ac958acfaa7a7ff9378b4c55ef53/2/_/x2_1-b_2_1.jpg.pagespeed.ic.EMOvmPtt6U.jpg",
+          "https://mageblueskytech.com/utero/media/catalog/product/cache/8b03ac958acfaa7a7ff9378b4c55ef53/2/_/x2_1-a_1_1.jpg.pagespeed.ic.RdXQlkW5vq.jpg"
+        ],
+        "category": "Kot",
+        "slug": "kislik-hirka"
+      },
+      {
+        "title": "Kaşkol",
+        "rate": 2.8,
+        "price": 60,
+        "count": 1,
+        "images": [
+          "https://mageblueskytech.com/utero/media/catalog/product/cache/8b03ac958acfaa7a7ff9378b4c55ef53/9/c/x9c.jpg.pagespeed.ic.T5skxfXvDJ.jpg",
+          "https://mageblueskytech.com/utero/media/catalog/product/cache/8b03ac958acfaa7a7ff9378b4c55ef53/9/b/x9b.jpg.pagespeed.ic.azJS6R2qPa.jpg",
+          "https://mageblueskytech.com/utero/media/catalog/product/cache/8b03ac958acfaa7a7ff9378b4c55ef53/9/c/x9c.jpg.pagespeed.ic.T5skxfXvDJ.jpg",
+          "https://mageblueskytech.com/utero/media/catalog/product/cache/8b03ac958acfaa7a7ff9378b4c55ef53/9/b/x9b.jpg.pagespeed.ic.azJS6R2qPa.jpg"
+        ],
+        "category": "Aksesuar",
+        "slug": "kaskol"
+      }
+    ]
+  }
+]

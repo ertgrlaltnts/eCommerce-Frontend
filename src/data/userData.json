@@ -1,0 +1,248 @@
+[
+  {
+    "name": "Hasan",
+    "surName": "Hüseyin",
+    "email": "hasan@gmail.com",
+    "password": "2285baba",
+    "role": "user",
+    "address": [
+      {
+        "id": "1",
+        "where": "home",
+        "name": "Songülün evi",
+        "city": "Trabzon",
+        "district": "Akçaabat",
+        "address": "Mersinlik cad. aktaş evleri",
+        "buildNo": "4C",
+        "departmentNo": "25"
+      },
+      {
+        "id": "2",
+        "where": "business",
+        "name": "İş yeri",
+        "city": "Trabzon",
+        "district": "Akçaabat",
+        "address": "Mersinlik cad. aktaş evleri",
+        "buildNo": "4C",
+        "departmentNo": "25"
+      },
+      {
+        "id": "3",
+        "where": "business",
+        "name": "İş yeri",
+        "city": "Trabzon",
+        "district": "Akçaabat",
+        "address": "Mersinlik cad. aktaş evleri",
+        "buildNo": "4C",
+        "departmentNo": "25"
+      },
+      {
+        "id": "4",
+        "where": "business",
+        "name": "İş yeri",
+        "city": "Trabzon",
+        "district": "Akçaabat",
+        "address": "Mersinlik cad. aktaş evleri",
+        "buildNo": "4C",
+        "departmentNo": "25"
+      }
+    ],
+
+    "basket": [],
+    "favourites": [
+      {
+        "title": "Kaşkol",
+        "rate": 2.8,
+        "price": 60,
+        "amount": 30,
+        "images": [
+          "https://mageblueskytech.com/utero/media/catalog/product/cache/8b03ac958acfaa7a7ff9378b4c55ef53/9/c/x9c.jpg.pagespeed.ic.T5skxfXvDJ.jpg",
+          "https://mageblueskytech.com/utero/media/catalog/product/cache/8b03ac958acfaa7a7ff9378b4c55ef53/9/b/x9b.jpg.pagespeed.ic.azJS6R2qPa.jpg",
+          "https://mageblueskytech.com/utero/media/catalog/product/cache/8b03ac958acfaa7a7ff9378b4c55ef53/9/c/x9c.jpg.pagespeed.ic.T5skxfXvDJ.jpg",
+          "https://mageblueskytech.com/utero/media/catalog/product/cache/8b03ac958acfaa7a7ff9378b4c55ef53/9/b/x9b.jpg.pagespeed.ic.azJS6R2qPa.jpg"
+        ],
+        "category": "Aksesuar",
+        "slug": "kaskol"
+      },
+      {
+        "title": "Ahşap Gözlük",
+        "rate": 3.8,
+        "price": 990,
+        "amount": 20,
+        "images": [
+          "https://mageblueskytech.com/utero/media/catalog/product/cache/8b03ac958acfaa7a7ff9378b4c55ef53/1/3/x13a_1.jpg.pagespeed.ic.x0lVlnlqzl.jpg",
+          "https://mageblueskytech.com/utero/media/catalog/product/cache/8b03ac958acfaa7a7ff9378b4c55ef53/1/3/x13b_1.jpg.pagespeed.ic.45h0NW0yrd.jpg",
+          "https://mageblueskytech.com/utero/media/catalog/product/cache/8b03ac958acfaa7a7ff9378b4c55ef53/1/3/x13a_1.jpg.pagespeed.ic.x0lVlnlqzl.jpg",
+          "https://mageblueskytech.com/utero/media/catalog/product/cache/8b03ac958acfaa7a7ff9378b4c55ef53/1/3/x13b_1.jpg.pagespeed.ic.45h0NW0yrd.jpg"
+        ],
+        "category": "Pantolon",
+        "slug": "ahsap-gozluk"
+      }
+    ],
+    "pastOrder": [
+      {
+        "isDelivery": false,
+        "date": "20/11/2022",
+        "totalPrice": "1180",
+        "order": [
+          {
+            "title": "Kışlık Hırka",
+            "rate": 3.5,
+            "price": 560,
+            "count": 2,
+            "images": [
+              "https://mageblueskytech.com/utero/media/catalog/product/cache/8b03ac958acfaa7a7ff9378b4c55ef53/2/_/x2_1-a_1_1.jpg.pagespeed.ic.RdXQlkW5vq.jpg",
+              "https://mageblueskytech.com/utero/media/catalog/product/cache/8b03ac958acfaa7a7ff9378b4c55ef53/2/_/x2_1-b_2_1.jpg.pagespeed.ic.EMOvmPtt6U.jpg",
+              "https://mageblueskytech.com/utero/media/catalog/product/cache/8b03ac958acfaa7a7ff9378b4c55ef53/2/_/x2_1-b_2_1.jpg.pagespeed.ic.EMOvmPtt6U.jpg",
+              "https://mageblueskytech.com/utero/media/catalog/product/cache/8b03ac958acfaa7a7ff9378b4c55ef53/2/_/x2_1-a_1_1.jpg.pagespeed.ic.RdXQlkW5vq.jpg"
+            ],
+            "category": "Kot",
+            "slug": "kislik-hirka"
+          },
+          {
+            "title": "Kaşkol",
+            "rate": 2.8,
+            "price": 60,
+            "count": 1,
+            "images": [
+              "https://mageblueskytech.com/utero/media/catalog/product/cache/8b03ac958acfaa7a7ff9378b4c55ef53/9/c/x9c.jpg.pagespeed.ic.T5skxfXvDJ.jpg",
+              "https://mageblueskytech.com/utero/media/catalog/product/cache/8b03ac958acfaa7a7ff9378b4c55ef53/9/b/x9b.jpg.pagespeed.ic.azJS6R2qPa.jpg",
+              "https://mageblueskytech.com/utero/media/catalog/product/cache/8b03ac958acfaa7a7ff9378b4c55ef53/9/c/x9c.jpg.pagespeed.ic.T5skxfXvDJ.jpg",
+              "https://mageblueskytech.com/utero/media/catalog/product/cache/8b03ac958acfaa7a7ff9378b4c55ef53/9/b/x9b.jpg.pagespeed.ic.azJS6R2qPa.jpg"
+            ],
+            "category": "Aksesuar",
+            "slug": "kaskol"
+          }
+        ]
+      },
+      {
+        "isDelivery": true,
+        "date": "09/07/2021",
+        "totalPrice": "1180",
+        "order": [
+          {
+            "title": "Kışlık Hırka",
+            "rate": 3.5,
+            "price": 560,
+            "count": 2,
+            "images": [
+              "https://mageblueskytech.com/utero/media/catalog/product/cache/8b03ac958acfaa7a7ff9378b4c55ef53/2/_/x2_1-a_1_1.jpg.pagespeed.ic.RdXQlkW5vq.jpg",
+              "https://mageblueskytech.com/utero/media/catalog/product/cache/8b03ac958acfaa7a7ff9378b4c55ef53/2/_/x2_1-b_2_1.jpg.pagespeed.ic.EMOvmPtt6U.jpg",
+              "https://mageblueskytech.com/utero/media/catalog/product/cache/8b03ac958acfaa7a7ff9378b4c55ef53/2/_/x2_1-b_2_1.jpg.pagespeed.ic.EMOvmPtt6U.jpg",
+              "https://mageblueskytech.com/utero/media/catalog/product/cache/8b03ac958acfaa7a7ff9378b4c55ef53/2/_/x2_1-a_1_1.jpg.pagespeed.ic.RdXQlkW5vq.jpg"
+            ],
+            "category": "Kot",
+            "slug": "kislik-hirka"
+          },
+          {
+            "title": "Kaşkol",
+            "rate": 2.8,
+            "price": 60,
+            "count": 1,
+            "images": [
+              "https://mageblueskytech.com/utero/media/catalog/product/cache/8b03ac958acfaa7a7ff9378b4c55ef53/9/c/x9c.jpg.pagespeed.ic.T5skxfXvDJ.jpg",
+              "https://mageblueskytech.com/utero/media/catalog/product/cache/8b03ac958acfaa7a7ff9378b4c55ef53/9/b/x9b.jpg.pagespeed.ic.azJS6R2qPa.jpg",
+              "https://mageblueskytech.com/utero/media/catalog/product/cache/8b03ac958acfaa7a7ff9378b4c55ef53/9/c/x9c.jpg.pagespeed.ic.T5skxfXvDJ.jpg",
+              "https://mageblueskytech.com/utero/media/catalog/product/cache/8b03ac958acfaa7a7ff9378b4c55ef53/9/b/x9b.jpg.pagespeed.ic.azJS6R2qPa.jpg"
+            ],
+            "category": "Aksesuar",
+            "slug": "kaskol"
+          }
+        ]
+      }
+    ],
+    "slug": "hasan-huseyin",
+    "cards": [
+      {
+        "id": "1",
+        "cardName": "Ziraat Kartım",
+        "number": "5282 0804 5570 8560",
+        "name": "Ertuğrul Altuntaş",
+        "month": "10",
+        "year": "23",
+        "ccv": "792"
+      },
+
+      {
+        "id": "2",
+        "cardName": "Akbank",
+        "number": "2287 6653 2994 1883",
+        "name": "Nazlı Durak",
+        "month": "08",
+        "year": "25",
+        "ccv": "178"
+      },
+      {
+        "id": "3",
+        "cardName": "Ziraat Kartım",
+        "number": "5282 0804 5570 8560",
+        "name": "Ertuğrul Altuntaş",
+        "month": "10",
+        "year": "23",
+        "ccv": "792"
+      },
+      {
+        "id": "4",
+        "cardName": "Ziraat Kartım",
+        "number": "5282 0804 5570 8560",
+        "name": "Ertuğrul Altuntaş",
+        "month": "10",
+        "year": "23",
+        "ccv": "792"
+      },
+      {
+        "id": "5",
+        "cardName": "Ziraat Kartım",
+        "number": "5282 0804 5570 8560",
+        "name": "Ertuğrul Altuntaş",
+        "month": "10",
+        "year": "23",
+        "ccv": "792"
+      },
+      {
+        "id": "6",
+        "cardName": "Ziraat Kartım",
+        "number": "5282 0804 5570 8560",
+        "name": "Ertuğrul Altuntaş",
+        "month": "10",
+        "year": "23",
+        "ccv": "792"
+      }
+    ]
+  },
+
+  {
+    "name": "John",
+    "surName": "Doe",
+    "email": "john@gmail.com",
+    "password": "2285baba",
+    "role": "user",
+    "address": [],
+    "basket": [],
+    "pastOrder": [],
+    "slug": "john-doe"
+  },
+
+  {
+    "name": "Ertuğrul",
+    "surName": "Altuntaş",
+    "email": "ertgrlaltnts@gmail.com",
+    "password": "2285baba",
+    "role": "user",
+    "address": [],
+    "basket": [],
+    "pastOrder": [],
+    "slug": "ertugrul-altuntas"
+  },
+
+  {
+    "name": "admin",
+    "password": "2285babacan",
+    "role": "admin"
+  },
+  {
+    "name": "admin2",
+    "password": "2285babacan",
+    "role": "admin"
+  }
+]
