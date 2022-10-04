@@ -2,8 +2,7 @@
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![image](https://user-images.githubusercontent.com/69998085/193880178-4172c6eb-062a-4388-968a-cba0eb9c6654.png)  |  ![image](https://user-images.githubusercontent.com/69998085/193880164-b4ea9874-908a-4e9f-833c-d481a036648f.png)
-
+![image](https://user-images.githubusercontent.com/69998085/193880178-4172c6eb-062a-4388-968a-cba0eb9c6654.png)  |  ![image](https://user-images.githubusercontent.com/69998085/193880895-2d2ccae1-f19d-44e9-960d-e3c6345cdb0a.png)
 The Project: eCommerce application is an online sales application
 
 For the project backend click [here](https://github.com/ertgrlaltnts/eCommerce.git)
